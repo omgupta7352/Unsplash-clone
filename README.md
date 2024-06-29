@@ -5,6 +5,7 @@ The Unsplash Clone project is a web-based application that mimics the functional
 ## Table of Contents
 
 - [Features](#features)
+- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,6 +18,10 @@ The Unsplash Clone project is a web-based application that mimics the functional
 - Search for photos based on keywords.
 - View photo details including photographer and description.
 - Responsive design for mobile and desktop use.
+
+## Demo
+
+You can try out the Unsplash clone live [here](https://omgupta7352.github.io/analog_clock/).
 
 ## Technologies Used
 
