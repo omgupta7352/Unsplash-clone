@@ -9,7 +9,7 @@ The Unsplash Clone project is a web-based application that mimics the functional
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -31,7 +31,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/unsplash_clone.git
+    git clone https://github.com/omgupta7352/Unsplash-clone.git
     ```
 
 2. Navigate to the project directory:
@@ -73,8 +73,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
     ```
 
 5. Open a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
